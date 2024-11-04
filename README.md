@@ -5,7 +5,7 @@ Eu sou Gabriel, Tenho 17 anos e faço uns codigos aí
 ## Sobre Mim
 
 - 💻 **Interesses:** Desenvolvimento Mobile, Cybersegurança, DevOps, Desenvolvimento Web
-- 🌱 **Atualmente aprendendo:** Java, Python, C# e Rust
+- 🌱 **Atualmente aprendendo:** Java, CyberSecurity e Inglês 
 - 🔭 **Projetos em andamento:** LanSystem (Sistema de supermercado)
 - 🤝 **Colaborando em:** DPWorld (Jovem Aprendiz)
 
