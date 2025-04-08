@@ -1,5 +1,16 @@
-🚀 **Devgabrieu | Estudante de Engenharia de Software (1/8)** 
+<div align="center">
+  <img src="https://i.imgur.com/JxUQ0n2.png" width="120" alt="Lain">
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=radical)
+  # システム // DEV_GABRIEU
+  
+  *"1/8 Engenharia de Software"*  
+  *"Present memory... present time..."*
+</div>
 
+---
+
+### ネットワークステータス
+```diff
++ CONNECTED_TO: THE_WIRED
++ USER_LEVEL: DEVELOPER
++ CURRENT_LAYER: 07
