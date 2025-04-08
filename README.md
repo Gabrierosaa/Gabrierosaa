@@ -15,20 +15,11 @@
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true&bg_color=00000000)
 
-  ![Streak Stats](https://streak-stats.demolab.com/?user=Gabrierosaa&theme=dark&hide_border=true&background=00000000)
 
 </div>
 
 ---
 
-### 詳細分析
-<div align="center" style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabrierosaa&theme=react-dark&hide_border=true&bg_color=00000000)
-
-  ![Metrics](https://github.com/Gabrierosaa/Gabrierosaa/blob/main/github-metrics.svg)
-
-</div>
 
 ---
 
