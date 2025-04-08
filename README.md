@@ -28,10 +28,6 @@
 
   ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrierosaa&theme=dark)
 
-  ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gabrierosaa&theme=dark)
-
-  ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gabrierosaa&theme=dark)
-
 </div>
 
 ---
