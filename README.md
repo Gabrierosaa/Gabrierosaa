@@ -51,9 +51,3 @@
   MEMORY: ███████████████████ 98% 
   CPU: [||||||||||||||----] 72%
   CONNECTIONS: 23 active nodes
-<div align="center">
-"All memory... all the time..."
-
-Visitors
-
-</div> 
