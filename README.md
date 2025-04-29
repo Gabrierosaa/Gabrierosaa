@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.imgur.com/JxUQ0n2.png" width="100" alt="Lain">
 
   # デヴガブリエウ // SYSTEM_STATS
   
