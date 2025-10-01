@@ -34,14 +34,4 @@
 
 ---
 
-### 💬 Entre em Contato
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLE_AQUI_SEU_LINKEDIN) 
-
-</div>
-
----
-
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
