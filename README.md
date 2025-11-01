@@ -27,10 +27,6 @@
 | :---: | :---: |
 | [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 
-### 📈 Atividade Recente
-
-[![Minha Atividade Recente](https://activity-graph.vercel.app/graph?username=Gabrierosaa&theme=dracula)](https://github.com/Gabrierosaa/github-readme-activity-graph)
-
 </div>
 
 ---
