@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Rosa 👋  
+# Gabriel Rosa  
 ### Estudante de Engenharia de Software  
 **Backend • .NET • Segurança da Informação**
 
@@ -8,16 +8,17 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-Sou estudante de Engenharia de Software com foco em **desenvolvimento backend**.  
-Trabalho principalmente com **.NET**, curto **baixo nível**, **segurança**, e gosto de entender **como as coisas realmente funcionam por baixo do capô**.
+Estudante de Engenharia de Software com foco em **desenvolvimento backend**.  
+Trabalho principalmente com **C# e ASP.NET**, tenho interesse forte em **segurança da informação**, **baixo nível** e **arquiteturas bem definidas**.
 
-Nada de código frágil ou solução gambiarra.
+Prefiro código simples, previsível e seguro.  
+Solução frágil não me interessa.
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
 
@@ -30,17 +31,15 @@ Nada de código frágil ou solução gambiarra.
 
 ---
 
-## 📊 GitHub em números
+##  GitHub em números
 
 <div align="center">
-
-| GitHub Stats | Linguagens |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_title=true&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true) |
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_title=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ---
+
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
 > **— Cory House**
