@@ -29,15 +29,5 @@ Trabalho principalmente com **C# e ASP.NET**, tenho interesse forte em **seguran
 
 ---
 
-##  GitHub em números
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_title=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true"/>
-</div>
-
----
-
-
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
 > **— Cory House**
