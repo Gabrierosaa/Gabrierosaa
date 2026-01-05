@@ -13,8 +13,6 @@
 Estudante de Engenharia de Software com foco em **desenvolvimento backend**.  
 Trabalho principalmente com **C# e ASP.NET**, tenho interesse forte em **segurança da informação**, **baixo nível** e **arquiteturas bem definidas**.
 
-Prefiro código simples, previsível e seguro.  
-Solução frágil não me interessa.
 
 ---
 
