@@ -1,34 +1,46 @@
 <div align="center">
-  
-# Oi! Eu sou o Gabriel Rosa 👋
-  
-### Estudante de Engenharia de Software | Apaixonado por Desenvolvimento Backend e Segurança.
+
+# Gabriel Rosa 👋  
+### Estudante de Engenharia de Software  
+**Backend • .NET • Segurança da Informação**
 
 </div>
 
 ---
 
-## 🛠️ Habilidades e Ferramentas
+## 🚀 Sobre mim
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  </p>
+Sou estudante de Engenharia de Software com foco em **desenvolvimento backend**.  
+Trabalho principalmente com **.NET**, curto **baixo nível**, **segurança**, e gosto de entender **como as coisas realmente funcionam por baixo do capô**.
+
+Nada de código frágil ou solução gambiarra.
 
 ---
+
+## 🛠️ Tecnologias
 
 <div align="center">
 
-## 📊 Estatísticas e Atividade no GitHub
-
-| Estatísticas | Linguagens |
-| :---: | :---: |
-| [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📊 GitHub em números
+
+<div align="center">
+
+| GitHub Stats | Linguagens |
+| :---: | :---: |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_title=true&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true) |
+
+</div>
+
+---
+
+> *“Code is like humor. When you have to explain it, it’s bad.”*  
+> **— Cory House**
