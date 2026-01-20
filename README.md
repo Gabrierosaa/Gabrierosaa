@@ -27,6 +27,17 @@ Trabalho principalmente com **C# e ASP.NET**, tenho interesse forte em **seguran
 
 </div>
 
+## Estatísticas
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
+
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.”*  
