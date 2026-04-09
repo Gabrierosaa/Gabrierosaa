@@ -2,7 +2,8 @@
 
 # Gabriel Rosa  
 ### Estudante de Engenharia de Software  
-**Backend • .NET • Segurança da Informação**
+**Backend  .NET  Segurança da Informação**
+https://devrosa.com.br/
 
 </div>
 
