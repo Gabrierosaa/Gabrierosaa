@@ -2,31 +2,34 @@
 
 # Gabriel Rosa  
 ### Estudante de Engenharia de Software  
-**Backend  .NET  Segurança da Informação**
+**Backend  .NET  Flutter  Segurança da Informação**  
 https://devrosa.com.br/
 
 </div>
 
 ---
 
-##  Sobre mim
+## Sobre mim
 
-Estudante de Engenharia de Software com foco em **desenvolvimento backend**.  
-Trabalho principalmente com **C# e ASP.NET**, tenho interesse forte em **segurança da informação**, **baixo nível** e **arquiteturas bem definidas**.
-
+Estudante de Engenharia de Software com foco em **desenvolvimento backend** e **desenvolvimento mobile com Flutter**.  
+Trabalho principalmente com **C#, ASP.NET e Flutter**, tenho interesse forte em **segurança da informação**, **baixo nível** e **arquiteturas bem definidas**.
 
 ---
 
-##  Tecnologias
+## Tecnologias
 
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
+
+---
 
 ## Estatísticas
 
@@ -37,7 +40,6 @@ Trabalho principalmente com **C# e ASP.NET**, tenho interesse forte em **seguran
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true" />
 
 </div>
-
 
 ---
 
