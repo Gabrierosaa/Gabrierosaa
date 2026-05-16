@@ -35,9 +35,13 @@ Trabalho principalmente com **C#, ASP.NET e Flutter**, tenho interesse forte em 
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielrosaiphone&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=dark&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrosaiphone&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrosaiphone&theme=tokyonight" />
 
 </div>
 
