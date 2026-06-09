@@ -50,19 +50,19 @@ Currently working mainly with C#, ASP.NET, and Flutter, with strong interest in 
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api?username=gabrielrosaiphone&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=Gabrierosaa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 />
 
 <img
   height="165"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielrosaiphone&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrierosaa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
 />
 
 <br><br>
 
 <img
   width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabrielrosaiphone&theme=tokyonight"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gabrierosaa&theme=tokyonight"
 />
 
 </div>
