@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o Gabriel Rosa
+# Olá, eu sou o Gabriel Rosa
 
-🎓 Estudante de **Engenharia de Software** e desenvolvedor focado no ecossistema **.NET + Angular**.
+Estudante de **Engenharia de Software** e desenvolvedor focado no ecossistema **.NET + Angular**.
 
 Meu foco é o desenvolvimento de aplicações web, principalmente na construção de **APIs e backends com C# / ASP.NET Core** e interfaces utilizando **Angular + TypeScript**.
 
